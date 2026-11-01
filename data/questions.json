@@ -1,0 +1,7 @@
+[
+  {"id": 1, "question": "Как создать функцию в Python?", "expected_keywords": ["def", "функция"]},
+  {"id": 2, "question": "Как обработать исключение?", "expected_keywords": ["try", "except"]},
+  {"id": 3, "question": "Как создать ветку в Git?", "expected_keywords": ["branch", "ветка"]},
+  {"id": 4, "question": "Как работает цикл for в Python?", "expected_keywords": ["for", "цикл"]},
+  {"id": 5, "question": "Как отправить изменения в удалённый репозиторий?", "expected_keywords": ["push", "origin"]}
+]
