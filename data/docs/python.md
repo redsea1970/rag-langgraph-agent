@@ -5,3 +5,21 @@
 
 ## Списки
 Списки — это упорядоченные коллекции. Пример: 
+
+## Функции
+Функция создаётся с помощью def. Пример: def my_func(): pass
+
+## Исключения
+Исключения обрабатываются через try/except. Пример: try: ... except Exception: ...
+
+## Циклы
+Цикл for: for i in range(10): print(i). Цикл while: while x > 0: x -= 1.
+
+## Импорт
+Импорт модуля: import module. Или: from module import func.
+
+## Классы
+Класс: class MyClass: ... Объект: obj = MyClass().
+
+## Словари
+Словарь: {"key": "value"} или dict(). Доступ: d["key"].
