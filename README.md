@@ -59,3 +59,7 @@ flowchart LR
     I --> R
     G --> O[Ответ]
 ```
+
+## Архитектура
+
+Подробная схема проекта: [ARCHITECTURE.md](ARCHITECTURE.md)
